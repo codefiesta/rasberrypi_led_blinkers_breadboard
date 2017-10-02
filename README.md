@@ -8,4 +8,6 @@ The resistors and LEDs are added to GPIO pins 17 and 22 which map to Inputs 11 a
 ![LED Breadboard Connection](images/breadboard_connections_1.jpg?raw=true "LED Breadboard Connection")
 ![LED Breadboard Connection](images/breadboard_connections_2.jpg?raw=true "LED Breadboard Connection")
 
+Click on the video link below to see the end result 😀.
+
 [![LED Blinking](https://img.youtube.com/vi/eAZ-myLdWSg/0.jpg)](https://www.youtube.com/watch?v=eAZ-myLdWSg)
